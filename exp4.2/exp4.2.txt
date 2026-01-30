@@ -1,0 +1,1 @@
+here we learn how to create nsg(network security group) to secure our server network
